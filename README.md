@@ -9,3 +9,4 @@ I'm Vasily, a programmer who loves to code in C# and tinkering with the Unity en
 
 📫 **Reach me:**
 - Email: [larin.vas@outlook.com](mailto:larin.vas@outlook.com)
+- Telegram: [@larin_vas](https://t.me/larin_vas)
